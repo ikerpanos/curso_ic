@@ -31,3 +31,12 @@ docker-compose (up / down /stop / start) -d (segundo plano)
     down: para contenedores y los borrar
     start: los arranca si están creados
     stop: los para si están arrancados
+    
+# Ejecutar comandos dentro de un contenedor
+docker exec CONTENEDOR COMANDO
+docker exec -it CONTENEDOR COMANDO
+
+# Copiar archivos entre contenedor y host
+docker cp ORIGEN DESTINO
+    tanto en origen como en destino se puede preceder la ruta de 'CONTENEDOR:'
+    Ejemplo: docker cp mitomcat:/etc/config ./configbackup
