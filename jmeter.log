@@ -1,0 +1,17 @@
+2020/07/30 08:20:49 INFO  - jmeter.util.JMeterUtils: Setting Locale to en 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: Version 2.13.20170723 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: java.version=11.0.8 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: java.vm.name=OpenJDK 64-Bit Server VM 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: os.name=Linux 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: os.arch=amd64 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: os.version=5.3.0-1030-aws 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: Default Locale=English 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: JMeter  Locale=English 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: user.dir  =/home/ubuntu/environment/curso_ic 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: PWD       =/home/ubuntu/environment/curso_ic 
+2020/07/30 08:20:50 INFO  - jmeter.JMeter: IP: 172.31.3.132 Name: ip-172-31-3-132 FullName: ip-172-31-3-132.eu-west-1.compute.internal 
